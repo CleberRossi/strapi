@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2743],{8023:e=>{e.exports=JSON.parse('{"label":"template","permalink":"/tags/template","allTagsPath":"/tags","count":1,"items":[{"id":"guides/e2e/app-template","title":"App Template","description":"Overview","permalink":"/guides/e2e/app-template"}]}')}}]);
